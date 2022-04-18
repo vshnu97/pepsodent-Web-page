@@ -1,0 +1,221 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.badge1{
+    color: white;
+    border-radius: 10px;
+    width: 80px;
+    border: none;
+    font-size: small;
+}
+.badge{
+    color: gray;
+    border-radius: 10px;
+    width: 120px;
+    border: none;
+    font-size: small;
+}
+.head-logo{
+   height: 70px;
+   width: 180px;
+}
+.style-clr {
+    color: blue;
+
+}
+.font-size{
+    height: 80px;
+    color: #041679;
+   font-size: large;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+.crd-pos{
+    margin-left: 10%;
+}
+.div2{
+    width: 75px;
+    height: 80px;
+    background-color: #e70033;
+    right: 0px;
+    top: 650px;
+    border-top-left-radius: 28px;
+    border-bottom-left-radius: 28px;
+}
+.div2:hover {
+    width: 150px;
+    transition: width 1s;
+   
+}
+
+
+
+.card-img {
+    border-bottom-right-radius: 60% 10%;
+    border-bottom-left-radius: 60% 10%;
+}
+.cht-me{
+    font-size: xx-large;
+}
+.crd-hdg{
+    color:#e70033;
+    font-size: 2.25rem;
+    line-height: 2.625rem;
+    font-weight: bold;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    
+}
+.crd-nws{
+    color: #000;
+    font-size: 100%;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: left;
+    text-transform: none;
+    font-style: normal;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;
+}
+.text-content{
+    color: black;
+}
+.img-size{
+    width: 100%;
+    height: 100%;
+}
+.badge2{
+   width: 180px;
+   height: 50px;
+   border: none;
+   border-radius: 25px;
+   font-size: large;
+   color: white
+}
+.img-card{
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   padding-left: 7%;
+    background:white;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+.des1{
+    font-weight: bold;
+    font-size:xx-large;
+    color: #041679;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+.crd-txt-clr{
+    color: #041679;
+    font-weight: bold;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+.crd-desc{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+.pst-crd{
+    color: #041679;
+    font-size: larger;
+    font-weight: bold;
+
+}
+
+
+.ftr-bar{
+   
+    background: #041679;
+}
+.footer-logo{
+    width: 180px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+.ftr-des{
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;
+    font-size:larger ;
+    font-weight: bold;
+}
+.select{
+    border: none;
+    background:#041679;
+    color: white;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;
+    width: 130px;
+  
+  
+}
+.icn{
+    width: 30px;
+    height: 30px;
+    background-color: #366cc2;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: large;
+    cursor: pointer;
+    
+}
+.red{
+    color: rgb(144, 42, 42);
+    cursor: pointer;
+   
+    font-size: xx-large;
+}
+
+.blue{
+    color: #366cc2;
+    cursor: pointer;
+    font-size: xx-large;
+   
+    
+}
+.wht{
+   color: #366cc2;
+   
+    font-size: xx-large;
+    cursor: pointer;
+}
+.sze{
+font-size: larger;
+cursor: pointer;
+
+
+}
+.shp li{
+ 
+    text-align:center;
+
+}
+.sce{
+    text-align:center;
+}
+#cs{
+    margin-left: 20px;
+
+}
+.nv-cntr{
+    display: flex;
+    float:right ;
+    
+
+}
+
+
+ 
+
+
+
+@media screen and (max-width:1200px){
+    .uniliver{
+        width: 210px;
+        height: 180px;
+}
+.crd-gap{
+  margin-top:10% ;
+}
+}
+    
